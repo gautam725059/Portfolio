@@ -2,9 +2,11 @@
 import React from "react";
 import Image from "next/image";
 import { motion } from "framer-motion";
-import imageone from "../Assect/image/imageone.jpg";
-import imagetwo from "../Assect/image/imagetwo.jpeg";
-import imagethree from "../Assect/image/imagethree.jpg";
+import imageone from "../Assect/Image/imageone.jpg"
+import imagetwo from "../Assect/Image/imagetwo.jpeg"
+import imagethree from "../Assect/Image/imagethree.jpg"
+
+
 
 const projects = [
   {
