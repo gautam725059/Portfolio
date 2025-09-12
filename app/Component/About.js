@@ -2,8 +2,8 @@
 import React from "react";
 import Image from "next/image";
 import { motion } from "framer-motion";
-import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
-import profileImage from "../Assect/image/Gautam.png"; // अपने profile image का path डालो
+
+import profileImage from "../Assect/Image/Gautam.png";
 
 const About = () => {
   return (
