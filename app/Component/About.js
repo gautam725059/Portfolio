@@ -44,7 +44,7 @@ const About = () => {
             Hello! I am <span className="font-semibold text-yellow-500">Gautam Gupta</span>, a passionate Software Developer based in Jharkhand, India. I build modern, responsive, and user-friendly web applications using React, Next.js, Node.js, and Tailwind CSS.
           </p>
           <p className="text-gray-700 dark:text-gray-300 text-justify text-lg md:text-xl">
-            I love solving complex problems, learning new technologies, and crafting digital experiences that delight users. Whether it's front-end design or full-stack development, I strive to deliver elegant and performant solutions.
+            I love solving complex problems, learning new technologies, and crafting digital experiences that delight users. Whether it&apos;s front-end design or full-stack development, I strive to deliver elegant and performant solutions.
           </p>
           <p className="text-gray-700 dark:text-gray-300 text-justify text-lg md:text-xl">
             When I&apos;m not coding, I enjoy exploring tech communities, contributing to open-source, and staying updated with the latest trends in web development.
